@@ -5,11 +5,11 @@ OUTPUT = "default"
 MODE = "w"
 # This is the main script of the steal-all-files github repository.
 #
-# This script has been created by Pablo Corbalán De Concepión | tw: @pablocorbcon
+# This script has been created by Pablo Corbalán De Concepión
 #
 # You can read the License for this script in the "LICENSE" file of this folder.
 #
-# For more information, visit: github.com/pblcc/steal-all-files (if you have access to it)
+# For more information, visit: github.com/HomeomorphicHooligan/steal-all-files (if you have access to it)
 from rich.markdown import Markdown
 from rich.console import Console
 

@@ -1,6 +1,6 @@
-This script is a cybersecurity toolthat has been designed with the purpose of stealing all the information and the files of a computer using an USB device.
+This script is a cybersecurity tool that has been designed with the purpose of stealing all the information and the files of a computer using an USB device.
 
-This tool has been created and designed by Pablo Corbalán De Concepción, You can find me on github as@pblcc or in Twitter as @pablocorbcon.
+This tool has been created and designed by Pablo Corbalan (@HomeomorphicHooligan in GitHub).
 
 For running this application, you should use:
 
